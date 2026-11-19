@@ -5,7 +5,7 @@ Welcome to PixelTasks, a task manager built pixel-themed
 To try the demo website out, click they try it button below!
 ### <kbd>[Try It!!!](https://example.com)</kbd>
 ### Features
-- Settings button that changes style
+- Settings button that changes the layout color and style
 - Layout is pixel themed
 - Helps manage your tasks
 ### How it works
